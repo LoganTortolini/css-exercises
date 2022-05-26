@@ -1,0 +1,20 @@
+.cool, .cooler {
+    background-color:#FFCCCB;
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+
+}
+
+#ID-1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#ID-2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
